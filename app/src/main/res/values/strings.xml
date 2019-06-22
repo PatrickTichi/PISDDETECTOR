@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PTSD DETECTOR</string>
+    <string name="action_settings">Settings</string>
+    <string name="q1">In Life have you ever experienced any traumatic event?</string>
+    <string name="q2">Have you ever had disturbing thoughts, memories or nightmares related to the trauma you experienced?</string>
+    <string name="q3">Do you avad certain people or places or situations that remind you of the traumatic event?</string>
+    <string name="q4">Have you been having any problems at school, work or in personal relationship?</string>
+    <string name="q5">Have you ever thought of harming yourself or others</string>
+    <string name="q6">Do you drink alcohol or use recreational drugs?</string>
+    <string name="q7">If yes in Question above? Is it often?</string>
+    <string name="q8">Have you ever been treated for other psychiatric symptoms or mental illness in the past?</string>
+    <string name="q9">Do you have suicidal thoughts?</string>
+</resources>
